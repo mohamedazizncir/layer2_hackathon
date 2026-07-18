@@ -128,16 +128,29 @@ Current simulator results:
 
 | KPI | Classic | RL | Improvement |
 |---|---:|---:|---:|
-| Chronic unfulfilled | 31.6691 | 31.8780 | -0.58% |
+| Chronic unfulfilled | 31.6691 | 335.8780 | -960.58% |
 | Cold-chain unfulfilled | 6.3031 | 6.3031 | 0.00% |
 | Critical delay | 21,374.0332 | 15,249.7571 | 28.65% |
 | Total reward | -10.7281 | -7.9702 | 25.71% |
 
-RL improves total reward and critical delay but currently worsens chronic unfulfilled volume. This tradeoff is reported transparently and indicates where reward design and validation need further work.
+RL improves total reward and critical delay but the saved policy currently performs much worse on chronic unfulfilled volume. This tradeoff is reported transparently and indicates where reward design and validation need further work. The comparison chart prints the exact Classic and RL values above their bars; indexed bar height is retained so KPIs with very different units remain visually comparable.
 
 ![RL versus classic comparison](data/processed/rl_vs_classic_comparison.png)
 
-The long-term figure is a **simulator projection**, not a real-world benchmark:
+### Literature-informed target scenario
+
+Published evidence supports testing RL for pharmaceutical inventory allocation, but it does **not** prove that this saved StockCare policy will outperform the classic heuristic:
+
+- Ahmadi et al. (2022) found that Q-learning and DQN inventory policies for a simulated multi-hospital pharmaceutical supply chain had lower shortage risk, higher patient service levels, and lower expiry risk than periodic-review `(R,s,S)` policies ([DOI](https://doi.org/10.1016/j.cor.2022.105968)).
+- Stranieri et al. (2025), in a realistic pharmaceutical case study developed with Bristol Myers Squibb, found that PPO was strongest in complex and variable scenarios, but did not outperform classical policies in every experiment ([arXiv](https://arxiv.org/abs/2501.10895)).
+
+The figure below is therefore an **illustrative target scenario, not a forecast or measured result**. It anchors Classic at the measured simulator value of `31.6691` chronic-unfulfilled units per episode and assumes RL reductions of 5%, 10%, and 15% as deployment and validation mature. Those percentages are conservative project assumptions, not effect sizes copied from the papers.
+
+| Illustrative horizon | Classic | RL target | Assumed reduction |
+|---|---:|---:|---:|
+| 26 weeks | 31.6691 | 30.0856 | 5% |
+| 52 weeks | 31.6691 | 28.5022 | 10% |
+| 104 weeks | 31.6691 | 26.9187 | 15% |
 
 ![Long-term simulated projection](data/processed/rl_vs_classic_long_term_projection.png)
 
