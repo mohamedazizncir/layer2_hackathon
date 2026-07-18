@@ -1,0 +1,120 @@
+dci,atc_class,usage_type,criticality_score
+PARACETAMOL,N02B - Analgesiques,confort_otc,0.15
+ATORVASTATINE,C10AA - Hypolipemiants,vital_chronique,0.55
+ESOMEPRAZOLE,A02BC - IPP,essentiel_aigu,0.35
+AMOXICILLINE+ACIDE CLAVULANIQUE,J01CR - Antibiotiques,essentiel_aigu,0.5
+PREGABALINE,N03AX - Antiepileptiques,vital_chronique,0.5
+AMOXICILLINE,J01CA - Antibiotiques,essentiel_aigu,0.45
+ROSUVASTATINE,C10AA - Hypolipemiants,vital_chronique,0.55
+GLIMEPIRIDE,A10BB - Antidiabetiques,vital_chronique,0.65
+AMLODIPINE,C08CA - Antihypertenseurs,vital_chronique,0.55
+CIPROFLOXACINE,J01MA - Antibiotiques,essentiel_aigu,0.45
+IRBESARTAN+HYDROCHLOROTHIAZIDE,C09DA - Antihypertenseurs,vital_chronique,0.55
+DICLOFENAC,M01AB - AINS,confort_otc,0.2
+CHLORURE DE SODIUM,B05XA - Solutes electrolytiques,essentiel_aigu,0.5
+OMEPRAZOLE,A02BC - IPP,essentiel_aigu,0.3
+SILDENAFIL,G04BE - Dysfonction erectile,confort_otc,0.15
+IBUPROFEN,M01AE - AINS,confort_otc,0.15
+METFORMINE,A10BA - Antidiabetiques,vital_chronique,0.65
+OLANZAPINE,N05AH - Antipsychotiques,vital_chronique,0.6
+LEVOFLOXACINE,J01MA - Antibiotiques,essentiel_aigu,0.45
+CELECOXIB,M01AH - AINS,confort_otc,0.15
+TADALAFIL,G04BE - Dysfonction erectile,confort_otc,0.1
+IRBESARTAN,C09CA - Antihypertenseurs,vital_chronique,0.5
+AMLODIPINE+VALSARTAN,C09DB - Antihypertenseurs,vital_chronique,0.5
+FLUCONAZOLE,J02AC - Antifongiques,essentiel_aigu,0.4
+PHLOROGLUCINOL,A03AX - Antispasmodiques,confort_otc,0.1
+AZITHROMYCINE,J01FA - Antibiotiques,essentiel_aigu,0.4
+BISOPROLOL,C07AB - Beta-bloquants,vital_chronique,0.6
+CAPTOPRIL,C09AA - IEC,vital_chronique,0.55
+METRONIDAZOLE,J01XD - Antibiotiques,essentiel_aigu,0.4
+LEVETIRACETAM,N03AX - Antiepileptiques,vital_chronique,0.7
+APIXABAN,B01AF - Anticoagulants,vital_chronique,0.75
+VALSARTAN,C09CA - Antihypertenseurs,vital_chronique,0.5
+BETAMETHASONE,H02AB - Corticosteroides,essentiel_aigu,0.4
+CLARITHROMYCINE,J01FA - Antibiotiques,essentiel_aigu,0.4
+DEXAMETHASONE,H02AB - Corticosteroides,essentiel_aigu,0.45
+GLUCOSE,B05CX - Solutes,essentiel_aigu,0.45
+ACIDE FUSIDIQUE,D06AX - Antibiotiques topiques,essentiel_aigu,0.35
+PRODUITS HOMEOPATHIQUES,N/A - Homeopathie,confort_otc,0.02
+VALSARTAN+HYDROCHLOROTHIAZIDE,C09DA - Antihypertenseurs,vital_chronique,0.5
+SIMVASTATINE,C10AA - Hypolipemiants,vital_chronique,0.5
+DESLORATADINE,R06AX - Antihistaminiques,confort_otc,0.1
+ESCITALOPRAM,N06AB - Antidepresseurs,vital_chronique,0.5
+METHOTREXATE,L04AX/L01BA - Immunosuppresseur/Oncologie,vital_chronique,0.7
+KETOPROFENE,M01AE - AINS,confort_otc,0.15
+INDOMETACINE,M01AB - AINS,confort_otc,0.2
+TERBINAFINE,D01AE - Antifongiques,confort_otc,0.2
+RISPERIDONE,N05AX - Antipsychotiques,vital_chronique,0.6
+RIVAROXABAN,B01AF - Anticoagulants,vital_chronique,0.75
+FACTEUR VIII,B02BD - Facteurs de coagulation,vital_chronique,0.9
+CALCIUM,A12AA - Supplements mineraux,essentiel_aigu,0.3
+GENTAMICINE,J01GB - Antibiotiques,essentiel_aigu,0.5
+LANSOPRAZOLE,A02BC - IPP,essentiel_aigu,0.3
+NICOTINE,N07BA - Sevrage tabagique,confort_otc,0.05
+CARBOCISTEINE,R05CB - Mucolytiques,confort_otc,0.1
+GEMCITABINE,L01BC - Oncologie,vital_chronique,0.85
+PARACETAMOL+PHENIRAMINE+VITAMINE C,N02BE - Rhume/analgesie,confort_otc,0.05
+FUROSEMIDE,C03CA - Diuretiques de l'anse,vital_chronique,0.6
+IRBESARTAN+AMLODIPINE,C09DB - Antihypertenseurs,vital_chronique,0.5
+PREDNISOLONE,H02AB - Corticosteroides,vital_chronique,0.55
+ECONAZOLE NITRATE,D01AC - Antifongiques topiques,confort_otc,0.1
+ACIDES AMINES+GLUCOSE+LIPIDES,B05BA - Nutrition parenterale,essentiel_aigu,0.6
+PACLITAXEL,L01CD - Oncologie,vital_chronique,0.85
+OXALIPLATINE,L01XA - Oncologie,vital_chronique,0.85
+LEVOCETIRIZINE,R06AE - Antihistaminiques,confort_otc,0.1
+CANDESARTAN CILEXETIL,C09CA - Antihypertenseurs,vital_chronique,0.5
+CEFADROXIL,J01DB - Antibiotiques,essentiel_aigu,0.4
+IRINOTECAN,L01XX - Oncologie,vital_chronique,0.85
+PANTOPRAZOLE,A02BC - IPP,essentiel_aigu,0.3
+ACICLOVIR,J05AB - Antiviraux,essentiel_aigu,0.5
+CANDESARTAN CILEXETIL+HYDROCHLOROTHIAZIDE,C09DA - Antihypertenseurs,vital_chronique,0.5
+TRAMADOL,N02AX - Analgesiques opioides,essentiel_aigu,0.35
+HYALURONATE DE SODIUM,M09AX - Viscosupplementation,confort_otc,0.1
+FAMOTIDINE,A02BA - Anti-H2,confort_otc,0.25
+CETIRIZINE,R06AE - Antihistaminiques,confort_otc,0.1
+CEFUROXIME,J01DC - Antibiotiques,essentiel_aigu,0.4
+LIDOCAINE,N01BB - Anesthesiques locaux,essentiel_aigu,0.3
+SULPIRIDE,N05AL - Antipsychotiques,vital_chronique,0.45
+FER,B03AA - Antianemiques,essentiel_aigu,0.35
+LEVOTHYROXINE SODIQUE,H03AA - Hormones thyroidiennes,vital_chronique,0.75
+ACARBOSE,A10BF - Antidiabetiques,vital_chronique,0.45
+ACETYLSALICYLATE DE LYSINE,N02BA - Analgesiques/antiagregants,essentiel_aigu,0.4
+ISOTRETINOINE,D10BA - Dermatologie,confort_otc,0.2
+ENTECAVIR,J05AF - Antiviraux,vital_chronique,0.65
+MESALAZINE,A07EC - Anti-inflammatoires intestinaux,vital_chronique,0.45
+LOSARTAN+HYDROCHLOROTHIAZIDE,C09DA - Antihypertenseurs,vital_chronique,0.5
+TRIMEBUTINE,A03AA - Antispasmodiques,confort_otc,0.1
+DOCETAXEL,L01CD - Oncologie,vital_chronique,0.85
+ENOXAPARINE,B01AB - Anticoagulants,vital_chronique,0.7
+RAMIPRIL,C09AA - IEC,vital_chronique,0.55
+PARACETAMOL+CODEINE,N02AA - Analgesiques opioides,confort_otc,0.2
+BUDESONIDE,R03BA - Corticosteroides inhales,vital_chronique,0.45
+DONEPEZIL,N06DA - Anti-Alzheimer,vital_chronique,0.35
+CEFTRIAXONE,J01DD - Antibiotiques,essentiel_aigu,0.6
+PIROXICAM,M01AC - AINS,confort_otc,0.15
+VALACICLOVIR,J05AB - Antiviraux,essentiel_aigu,0.4
+BECLOMETASONE,R03BA - Corticosteroides inhales,vital_chronique,0.4
+SPIRAMYCINE+METRONIDAZOLE,J01RA - Antibiotiques (dentaire),essentiel_aigu,0.35
+CEFIXIME,J01DD - Antibiotiques,essentiel_aigu,0.4
+PROGESTERONE,G03DA - Hormones,vital_chronique,0.4
+DASATINIB,L01EA - Oncologie ciblee,vital_chronique,0.85
+OFLOXACINE,J01MA - Antibiotiques,essentiel_aigu,0.4
+ACIDE NIFLUMIQUE,M01AX - AINS,confort_otc,0.15
+ONDANSETRONE,A04AA - Antiemetiques,essentiel_aigu,0.35
+CLOPIDOGREL,B01AC - Antiagregants,vital_chronique,0.75
+MONTELUKAST,R03DC - Antiasthmatiques,vital_chronique,0.35
+METOCLOPRAMIDE,A03FA - Antiemetiques,confort_otc,0.2
+PAROXETINE,N06AB - Antidepresseurs,vital_chronique,0.5
+DOMPERIDONE,A03FA - Antiemetiques,confort_otc,0.15
+MORPHINE,N02AA - Analgesiques opioides,essentiel_aigu,0.6
+INSULINE HUMAINE,A10AB - Insulines,vital_chronique,0.95
+AMISULPRIDE,N05AL - Antipsychotiques,vital_chronique,0.55
+MOLSIDOMINE,C01DX - Antiangineux,vital_chronique,0.45
+ATENOLOL,C07AB - Beta-bloquants,vital_chronique,0.5
+FLUTICASONE,R03BA - Corticosteroides inhales,vital_chronique,0.4
+GLICLAZIDE,A10BB - Antidiabetiques,vital_chronique,0.6
+VENLAFAXINE,N06AX - Antidepresseurs,vital_chronique,0.5
+IOHEXOL,V08AB - Produits de contraste,essentiel_aigu,0.3
+LOSARTAN,C09CA - Antihypertenseurs,vital_chronique,0.5
+RIVASTIGMINE,N06DA - Anti-Alzheimer,vital_chronique,0.35
