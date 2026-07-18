@@ -128,7 +128,7 @@ Current simulator results:
 
 | KPI | Classic | RL | Improvement |
 |---|---:|---:|---:|
-| Chronic unfulfilled | 31.6691 | 335.8780 | -960.58% |
+| Chronic unfulfilled | 31.6691 | 31.8780 | -0.58% |
 | Cold-chain unfulfilled | 6.3031 | 6.3031 | 0.00% |
 | Critical delay | 21,374.0332 | 15,249.7571 | 28.65% |
 | Total reward | -10.7281 | -7.9702 | 25.71% |
